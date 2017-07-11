@@ -13,7 +13,7 @@
 | UX                | User Experience, how the user will be affected by the use of a product                                                                                                                  |
 | 2i                | Second eye, another person to check over your work                                                                                                                                      |
 | VI                | Command line editor                                                                                                                                                                     |
-| GDS               | Global Distribution System, network run by a company allowing automated transactions between travel service providers and travel agencies                                              |
+| GDS               | Government Digital Service - the central civil service organisation responsible for making digital and technology better in government                                              |
 | User              | The person who will use the product                                                                                                                                                     |
 | User flow         | The actions that have to be taken by a user to complete a process                                                                                                                       |
 | Co-design         | Designing a product whilst actively involving the stakeholders during the design process so the end product meets there needs                                                           |
@@ -37,7 +37,7 @@
 | Trello            | Project management app using cards to help keep track of tasks                                                                                                                          |
 | WebEx             | Video conferencing and desktop sharing service                                                                                                                                          |
 | Marvel            | Allows you to turn sketches, mockups and designs into web or app prototypes                                                                                                             |
-| Appear.in         | Group video conferencing service                                                                                                                                                        |
+| Appear.in         | Group video conferencing service - used by the digital team                                                                                                                                                        |
 | Git Hub           | Development platform where you can review code, manage projects and build software                                                                                                      |
 | Gsuite            | Google collaboration software for professional use                                                                                                                                      |
 | Sketch            | Software for graphic designers that allows you to draw a user interface design template                                                                                                 |
